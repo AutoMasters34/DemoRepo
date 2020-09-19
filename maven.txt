@@ -1,3 +1,4 @@
 txt.file
 txt.notepad
 txt.java
+txt.html
